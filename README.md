@@ -1,11 +1,10 @@
 === VR Splash Screen ===
+
 Contributors: Vincent Rousseau
+
 Author URI: http://www.vincent-rousseau.net/
+
 Plugin URI: http://www.vincent-rousseau.net/content/plugin-vr-splash-screen-wordpress
-Tags: splash, splash screen, splashscreen, landing, landing page, announcement, message, welcome
-Requires at least: 3.0
-Tested up to: 3.5
-Stable tag: 1.0.4
 
 VR Splash Screen permet d'afficher une page interm&eacute;diaire (splash screen) lors de la premi&egrave;re visite d'un internaute.
 
